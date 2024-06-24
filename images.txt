@@ -6,3 +6,5 @@ nginx
 --platform=linux/arm64 xiaoyaliu/alist
 xuxueli/xxl-job-admin:2.4.0
 seataio/seata-server:1.7.1
+nacos/nacos-server:v2.2.1
+
