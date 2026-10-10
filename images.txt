@@ -10,5 +10,5 @@ nginx
 #redis:7.4.0
 #minio/minio:RELEASE.2020-08-08T04-50-06Z
 #busybox:latest
---platform=linux/arm64 pgsty/minio:RELEASE.2026-08-04T00-00-00Z
---platform=linux/amd64 pgsty/minio:RELEASE.2026-08-04T00-00-00Z
+--platform=linux/arm64 pgsty/silo:RELEASE.2026-09-16T00-00-00Z
+--platform=linux/amd64 pgsty/silo:RELEASE.2026-09-16T00-00-00Z
